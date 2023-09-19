@@ -1,3 +1,4 @@
+#Copyright © 2023 Klinjin@enigma-igm
 import haiku as hk
 import jax.numpy as jnp
 import jax
